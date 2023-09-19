@@ -1,6 +1,6 @@
 # :diamond_shape_with_a_dot_inside: Louie Crook
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman`**
 
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
@@ -25,11 +25,11 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 ![Louie's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouieCRK&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=LouieCRK&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=LouieCRK&theme=gruvbox&border_radius=4.5) -->
 
 #
 
