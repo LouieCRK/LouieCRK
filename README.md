@@ -6,9 +6,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **a personal finance tracking app**
  
- 🌱 Current tech i'm learning: **Flutter, Kotlin, & React Native**
+ 🌱 Tech i'm learning: **Flutter, Kotlin, & React Native**
 
 <!-- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
 
