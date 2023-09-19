@@ -1,6 +1,6 @@
 # :diamond_shape_with_a_dot_inside: Louie Crook
 
-**`Digital Craftsman`**
+**`Software Developer`**
 
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
