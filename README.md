@@ -38,7 +38,6 @@
 
 </div>
 <br/>
-<hr/>
 
 <!-- ### 📊 Stats
 
@@ -46,10 +45,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LouieCRK&theme=gruvbox&border_radius=4.5) -->
 
-#
+<!-- #
 
 <details>
  <summary><h3>👨‍💻 Louie's Coding Journey</h3></summary>
    TO BE CONTINUED...
 
-[website]: https://louie.io
+[website]: https://louie.io -->
