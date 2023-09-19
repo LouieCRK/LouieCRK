@@ -1,4 +1,4 @@
-# :diamond_shape_with_a_dot_inside: Louie Crook
+# :white_check_mark: Louie Crook
 
 **`Software Developer`**
 
