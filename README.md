@@ -61,15 +61,20 @@ Building polished frontend projects that stand out for real-world product engine
 <div align="center">
 
 Building high-quality frontend applications with:
-- Scalable architecture 
-- Reusable component systems
-- Strong UI/UX
-- Modern animation
-- Responsive design
-- Production-ready code practices
 
-</div>
+<br/>
+
+• Scalable architecture  
+• Reusable component systems  
+• Strong UI/UX  
+• Modern animation  
+• Responsive design  
+• Production-ready code practices  
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LouieCRK&color=blueviolet" />
 </p>
+
+</div>
