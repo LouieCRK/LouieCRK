@@ -56,7 +56,7 @@ Building polished frontend projects that stand out for real-world product engine
 
 <br/>
 
-<h2 align="center">📌 Current Focus</h2>
+<!-- <h2 align="center">📌 Current Focus</h2>
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Building high-quality frontend applications with:
 • Responsive design  
 • Production-ready code practices  
 
-<br/>
+<br/> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LouieCRK&color=blueviolet" />
