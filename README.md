@@ -22,6 +22,7 @@ Freelance Web Developer • Next.js • React • TypeScript
 🎯 Current focus:
 <strong>Building premium web experiences, growing my freelance business and landing my first software engineering role.</strong>
 
+
 </div>
 
 <br/>
@@ -52,6 +53,16 @@ Freelance Web Developer • Next.js • React • TypeScript
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,linux" />
 
+## Featured Projects
+
+🚀 Portfolio
+Modern interactive portfolio built with Next.js, Tailwind CSS and Framer Motion.
+
+🌱 Little Bambinos Nursery
+A complete business website delivered for a real client, including custom design, CMS integration and deployment.
+
+🧪 Currently Building
+A premium product landing page focused on scroll-driven storytelling and immersive interactions.
 </div>
 
 <br/>
