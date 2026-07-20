@@ -1,27 +1,26 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Satoshi&size=25&duration=1500&pause=1200&color=B08FF7&center=true&width=435&lines=Hi+There!+%F0%9F%96%90%F0%9F%8F%BC;I'm+Louie+Crook." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Satoshi&size=25&duration=1500&pause=1200&color=B08FF7&center=true&width=500&lines=Hi+There!+%F0%9F%96%90%F0%9F%8F%BC;I'm+Louie+Crook.;I+build+modern+web+experiences." alt="Typing SVG" />
   </a>
 </h1>
 
 <h3 align="center">
-Software Developer from the UK
+Freelance Web Developer • Next.js • React • TypeScript
 </h3>
 
 <br/>
 
 <div align="center">
 
-💻 Computer Science graduate with commercial freelance experience building production web applications.
+💻 Computer Science graduate building modern websites and web applications for businesses.
 
-🚀 Experienced with:
-<strong>React, Next.js, TypeScript, JavaScript, Python, Kotlin</strong>
+✨ I focus on creating fast, responsive websites with polished UI, smooth animations and a strong emphasis on user experience.
 
-⚡ Interests:
-<strong>Full Stack Development, Software Engineering, REST APIs, Clean Architecture</strong>
+🚀 Working primarily with:
+<strong>Next.js, React, TypeScript, Tailwind CSS, Framer Motion</strong>
 
-🎯 Currently focused on:
-<strong>Building production-ready software and expanding backend development skills.</strong>
+🎯 Current focus:
+<strong>Building premium web experiences, growing my freelance business and landing my first software engineering role.</strong>
 
 </div>
 
@@ -47,11 +46,11 @@ Software Developer from the UK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,nodejs,kotlin" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=tailwind,git,github,linux,vscode,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,linux" />
 
 </div>
 
