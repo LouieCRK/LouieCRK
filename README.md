@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-Software Developer from the UK 🇬🇧
+Software Developer from the UK
 </h3>
 
 <br/>
