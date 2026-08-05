@@ -53,17 +53,6 @@ Frontend Developer • Next.js • React • TypeScript
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,linux" />
 
-## Featured Projects
-
-🚀 Portfolio  
-Modern interactive portfolio showcasing commercial projects, responsive web design and polished frontend development.
-
-🌱 Little Bambinos Nursery  
-A production website delivered for a real client, including custom frontend development, deployment and ongoing support.
-
-🧪 Currently Building  
-Premium websites for service-based businesses, focused on performance, conversion and refined user experience.
-
 </div>
 
 <br/>
