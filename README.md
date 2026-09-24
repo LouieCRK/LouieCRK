@@ -10,8 +10,6 @@ I design, build and ship fast, polished websites and web experiences for busines
 From frontend development through to deployment, SEO and ongoing improvement.
 </p>
 
-<br/>
-
 <div align="center">
 
 <a href="https://www.louiecrook.co.uk/" target="_blank">
