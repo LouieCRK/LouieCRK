@@ -33,9 +33,3 @@ From frontend development through to deployment, SEO and ongoing improvement.
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,git,github,vercel,figma" />
 
 </div>
-
-<br/>
-
-<p align="center">
-<strong>Building production web experiences with a focus on performance, responsive design and clean, maintainable code.</strong>
-</p>
